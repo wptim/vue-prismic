@@ -1,6 +1,6 @@
 <template>
   <header class="site-header">
-    <router-link to="/" class="logo">Example Site</router-link>
+    <router-link to="/" class="logo">wptim</router-link>
     <nav>
       <ul>
         <li v-for="menuLink in menuLinks" :key="menuLink.id">
